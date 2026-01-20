@@ -22,13 +22,13 @@ This script is designed for IT professionals and system administrators who need 
    git clone [https://github.com/YOUR_USERNAME/Debian-Admin-Provisioner.git](https://github.com/YOUR_USERNAME/Debian-Admin-Provisioner.git)
    cd Debian-Admin-Provisioner
 2. **Make the script executable:**
-```bash
+	```bash
 	chmod +x debian13_GNOME_post_install.sh
-```
+	```
 3. **Run the script:**
-```bash
+	```bash
 	sudo ./debian13_GNOME_post_install.sh
-```
+	```
 ## ⚠️ Disclaimer
 
 This script makes significant changes to system configurations and security settings. It is provided "as-is." Always review the source code before running it on a production system.

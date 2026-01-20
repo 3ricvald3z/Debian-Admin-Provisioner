@@ -19,7 +19,7 @@ This script is designed for IT professionals and system administrators who need 
 ## ⚙️ Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Debian-Admin-Provisioner.git](https://github.com/YOUR_USERNAME/Debian-Admin-Provisioner.git)
+   git clone https://github.com/3ricvald3z/Debian-Admin-Provisioner.git
    cd Debian-Admin-Provisioner
 2. **Make the script executable:**
 	```bash
